@@ -1,4 +1,4 @@
-<img src="https://github.com/okooba/rsschool-cv/blob/gh-pages/logo.png.png" alt="photo" width="200" height="200">
+<img src="https://okooba.github.io/rsschool-cv/logo.png.png" alt="photo" width="200" height="200">
 
 # Kabaloev Oleg
 ---
@@ -17,8 +17,7 @@
 * Git/Github
  ---
  ### Code examples 
-```
-<!DOCTYPE HTML>
+```<!DOCTYPE HTML>
 <html lang = "en-us">
 <head>
 <meta charset ="utf-8">
@@ -61,5 +60,4 @@ Please enter the weather: <input type:"text" id="inputBox">
     + CIT 160: Introduction to Programming
 ### Languages 
 #### English - B2 BYU Pathway Program 
-<img src="https://github.com/okooba/rsschool-cv/blob/gh-pages/english.png" alt="photo" width="600" height="150">
-    git 
+<img src="https://okooba.github.io/rsschool-cv/english.png" alt="photo" width="600" height="150">
