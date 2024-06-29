@@ -1,5 +1,4 @@
-<img src="logo.png.png" alt="photo" width="200" height="200">
-
+![photo](logo.png.png)
 # Kabaloev Oleg
 ---
 ### Contact information:
@@ -20,6 +19,7 @@
 
 
 ```
+
 <!DOCTYPE HTML>
 <html lang = "en-us">
 <head>
@@ -52,6 +52,8 @@ Please enter the weather: <input type:"text" id="inputBox">
 <div id='output'></div> 
 </body>
 </html>
+
+
 ```
 
 
@@ -65,4 +67,4 @@ Please enter the weather: <input type:"text" id="inputBox">
     + CIT 160: Introduction to Programming
 ### Languages 
 #### English - B2 BYU Pathway Program 
-<img src="english.png" alt="photo" width="600" height="150">
+![photo](english.png)
