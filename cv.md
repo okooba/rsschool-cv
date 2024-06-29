@@ -51,6 +51,14 @@ Please enter the weather: <input type:"text" id="inputBox">
 </body>
 </html>
 ```
+### Programming experience
+#### I completed two programming courses at Brigham Young University-Idaho: the first course covered the basics of frontend development, some projects using HTML CSS and Javascript, and the second course covered the basics of backend development, I learned the basics of Python.
 ### Education 
-* National University of Science and Technology MISiS, Moscow, Russia - Master degree in Civil engineering 
-* Brigham Young University-Idaho, USA - 
+* National University of Science and Technology MISiS, Moscow, Russia
+    + Master Degree in Civil engineering 
+* Brigham Young University-Idaho, USA:
+    + CS 101: Introduction to Programming
+    + CIT 160: Introduction to Programming
+### Languages 
+#### Englis - B2 
+     
