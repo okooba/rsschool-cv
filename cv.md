@@ -1,4 +1,4 @@
-<img src="RS School 2024\logo.png.png" alt="photo" width="200" height="200">
+<img src="https://github.com/okooba/rsschool-cv/blob/gh-pages/logo.png.png" alt="photo" width="200" height="200">
 
 # Kabaloev Oleg
 ---
@@ -51,4 +51,6 @@ Please enter the weather: <input type:"text" id="inputBox">
 </body>
 </html>
 ```
-### 
+### Education 
+* National University of Science and Technology MISiS, Moscow, Russia - Master degree in Civil engineering 
+* Brigham Young University-Idaho, USA - 
