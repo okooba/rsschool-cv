@@ -1,1 +1,1 @@
-https://okooba.github.io/rsschool-cv/cv.md
+https://okooba.github.io/rsschool-cv/cv
