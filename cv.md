@@ -1,4 +1,3 @@
-![photo](logo.png.png)
 # Kabaloev Oleg
 ---
 ### Contact information:
@@ -19,13 +18,6 @@
 
 
 ```
-
-<!DOCTYPE HTML>
-<html lang = "en-us">
-<head>
-<meta charset ="utf-8">
-<title>Calculator</title>
-<script>
 function FootWear() {
 let text = document.getElementById('inputBox').value;
 let weather = parseInt(text);
@@ -45,15 +37,6 @@ Foot = "shoes";
 document.getElementById('output').innerHTML = Foot;
 } 
 </script> 
-</head>
-<body>
-Please enter the weather: <input type:"text" id="inputBox">
-<button type="button" onclick="FootWear();">click</button>
-<div id='output'></div> 
-</body>
-</html>
-
-
 ```
 
 
@@ -66,5 +49,4 @@ Please enter the weather: <input type:"text" id="inputBox">
     + CS 101: Introduction to Programming
     + CIT 160: Introduction to Programming
 ### Languages 
-#### English - B2 BYU Pathway Program 
-![photo](english.png)
+#### English - B2 BYU Pathway Program git 
