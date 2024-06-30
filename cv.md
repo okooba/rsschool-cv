@@ -16,6 +16,7 @@
 * JavaScript, Python
 * VS Code
 * Git/Github
+
  ---
 ### Code examples 
 ```
