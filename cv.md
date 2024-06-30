@@ -15,9 +15,7 @@
 * VS Code
 * Git/Github
  ---
- 
- 
- ### Code examples 
+### Code examples 
 ```
 function FootWear() {
 let text = document.getElementById('inputBox').value;
