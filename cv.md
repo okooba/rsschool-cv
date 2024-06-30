@@ -1,3 +1,4 @@
+![photo](logo.png.png)
 # Kabaloev Oleg
 ---
 ### Contact information:
@@ -14,9 +15,9 @@
 * VS Code
 * Git/Github
  ---
+ 
+ 
  ### Code examples 
-
-
 ```
 function FootWear() {
 let text = document.getElementById('inputBox').value;
@@ -50,3 +51,6 @@ document.getElementById('output').innerHTML = Foot;
     + CIT 160: Introduction to Programming
 ### Languages 
 #### English - B2 BYU Pathway Program git 
+![photo](english.png)
+#### Russian - native speaker 
+#### German - B1 
