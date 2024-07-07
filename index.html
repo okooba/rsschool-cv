@@ -9,6 +9,18 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <style>
+        pre, code {
+            background-color: #cfc5c5;
+            border: 1px solid #613434;
+            border-radius: 3px;
+            padding: 10px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        pre {
+            overflow: auto;
+        }
+    </style>
 </head>
 <body>
     <header class="header">
@@ -52,7 +64,45 @@
                     <li>Git/Github</li>
                 </ul>               
             </section>
-            <section class="section">
+            <section class="section" id="code">
+                <h2>Code example</h2>
+                <p>function FootWear() {</p>
+                <p>let text = document.getElementById('inputBox').value;</p>
+                <p>let weather = parseInt(text);</p>
+                <p></p>let Foot;</p>
+                <p></p>if (weather == "hot") {</p>
+                <p>Foot = sandals;</p>
+                <p>}</p>
+                <p>else if (weather == "rain") {</p>
+                <p>Foot = galoshes;</p>
+                <p>} </p>
+                <p>else if (weather == "snow") {</p>
+                <p>Foot ="boots";</p>
+                <p>}</p>
+                <p>else {</p>
+                <p>Foot = "shoes";</p>
+                <p>}</p>
+                <p>document.getElementById('output').innerHTML = Foot;</p>
+            </section>
+            <section class="section" id="experience">
+                <h2>Programming experience</h2>
+                <p>I completed two programming courses at Brigham Young University-Idaho: the first course covered the basics of frontend development, some projects using HTML CSS and Javascript, and the second course covered the basics of backend development, I learned the basics of Python.</p>
+            </section>
+            <section class="section" id="education">
+                <h2>Education</h2>
+                <ul>
+                    <li>National University of Science and Technology MISiS, Moscow, Russia</li>
+                        <ul>
+                            <li>Master Degree in Civil engineering</li>
+                        </ul>
+                    <li>Brigham Young University-Idaho, USA</li> 
+                        <ul>
+                            <li>CS 101: Introduction to Programming</li>
+                            <li>CIT 160: Introduction to Programming</li>
+                        </ul>
+                </ul>
+            </section>
+            <section class="section" id=""
         </div>
     </main>
     <footer class="footer">
