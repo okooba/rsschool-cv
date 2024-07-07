@@ -3,9 +3,121 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>cv</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="icon" href="assets/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <style>
+        pre, code {
+            background-color: #cfc5c5;
+            border: 1px solid #613434;
+            border-radius: 3px;
+            padding: 10px;
+            font-family: 'Courier New', Courier, monospace;
+        }
+        pre {
+            overflow: auto;
+        }
+    </style>
 </head>
-<body> 
-    <p>checkup</p>
+<body>
+    <header class="header">
+        <div class="container">
+            <nav class="nav">
+                <ul class="nav-list">
+                  <li class="nav-item"><a href="#contacts" class="nav-link">Contacts</a></li>
+                  <li class="nav-item"><a href="#summary" class="nav-link">Summary</a></li>
+                  <li class="nav-item"><a href="#skills" class="nav-link">Skills</a></li>
+                  <li class="nav-item"><a href="#code" class="nav-link">Code example</a></li>
+                  <li class="nav-item"><a href="#experience" class="nav-link">Programming experience</a></li>
+                  <li class="nav-item"><a href="#education" class="nav-link">Education</a></li>
+                  <li class="nav-item"><a href="#languages" class="nav-link">Languages</a></li>
+                </ul>
+              </nav>
+        </div>
+    </header>
+    <main class="main">
+        <div class="container">
+            <section class="section">
+                <h1>Kabaloev Oleg</h1>
+                <img src="./assets/img/logo.png.png" alt="avatar" weight="400px" height="400px"/>
+            <section class="section" id="contacts">
+                <h2>Contacts</h2>
+                <ul>
+                    <li>Phone: +79292572704</li>
+                    <li>Email: okooba1@gmail.com</li>
+                    <li>Discord: @okooba</li>
+                </ul>
+            </section>
+            <section class="section" id="summary">
+                <h2>Summary</Summary></h2>
+                <p>My strong qualities are diligence, hard work, and perseverance. I believe that there are no unsolvable problems, and that a combination of diligence, a clear mind, and confidence in one’s own abilities can lead to solutions for even the most complex tasks. In work, the most important things for me are a professional approach and process optimization.</p>
+            </section>
+            <section class="section" id="skills">
+                <h2>Skills</h2>
+                <ul>
+                    <li>HTML, CSS, Markdown</li>
+                    <li>JavaScript, Python</li>
+                    <li>VS Code</li>
+                    <li>Git/Github</li>
+                </ul>               
+            </section>
+            <section class="section" id="code">
+                <h2>Code example</h2>
+                <p>function FootWear() {</p>
+                <p>let text = document.getElementById('inputBox').value;</p>
+                <p>let weather = parseInt(text);</p>
+                <p></p>let Foot;</p>
+                <p></p>if (weather == "hot") {</p>
+                <p>Foot = sandals;</p>
+                <p>}</p>
+                <p>else if (weather == "rain") {</p>
+                <p>Foot = galoshes;</p>
+                <p>} </p>
+                <p>else if (weather == "snow") {</p>
+                <p>Foot ="boots";</p>
+                <p>}</p>
+                <p>else {</p>
+                <p>Foot = "shoes";</p>
+                <p>}</p>
+                <p>document.getElementById('output').innerHTML = Foot;</p>
+            </section>
+            <section class="section" id="experience">
+                <h2>Programming experience</h2>
+                <p>I completed two programming courses at Brigham Young University-Idaho: the first course covered the basics of frontend development, some projects using HTML CSS and Javascript, and the second course covered the basics of backend development, I learned the basics of Python.</p>
+            </section>
+            <section class="section" id="education">
+                <h2>Education</h2>
+                <ul>
+                    <li>National University of Science and Technology MISiS, Moscow, Russia</li>
+                        <ul>
+                            <li>Master Degree in Civil engineering</li>
+                        </ul>
+                    <li>Brigham Young University-Idaho, USA</li> 
+                        <ul>
+                            <li>CS 101: Introduction to Programming</li>
+                            <li>CIT 160: Introduction to Programming</li>
+                        </ul>
+                </ul>
+            </section>
+            <section class="section" id="laguages">
+                <h2>Languages</h2>
+                <ul>
+                    <li>English - B2 (BYU Pathway Program)</li>
+                    <li>Russian - native speaker</li>
+                    <li>German - B1</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <a href="https://github.com/okooba">Github</a>
+            <a href="https://rs.school/courses/javascript-ru">RS course</a>
+            <img src="https://raw.githubusercontent.com/rolling-scopes-school/tasks/34c6c5cbc96ec26fcfdb022d1a6f3b2641f0110c/tasks/cv/rs-school-logo.svg" alt="logo" weight="30px" height="30px"/>
+        </div>
+    </footer>
 </body>
 </html>
